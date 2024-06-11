@@ -1,0 +1,2377 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.home .vector {
+  margin: 0 5.8px 8.6px 0;
+  width: 56.5px;
+  height: 56.4px;
+}
+
+.home .vector-1 {
+  margin: 6.7px 2.8px 0.1px 0;
+  width: 19.8px;
+  height: 28.1px;
+}
+
+.home .vector-2 {
+  margin: 6.8px 3.8px 0px 0;
+  width: 28.4px;
+  height: 28px;
+}
+
+.home .vector-3 {
+  margin: 7.5px 5.7px 0 0;
+  width: 22.9px;
+  height: 27.4px;
+}
+
+.home .vector-4 {
+  margin-bottom: 0.7px;
+  width: 6px;
+  height: 34.2px;
+}
+
+.home .group {
+  margin: 0 15.2px 5.1px 0;
+  display: flex;
+  flex-direction: row;
+  width: 89.5px;
+  box-sizing: border-box;
+}
+
+.home .vector-5 {
+  margin: 0px 2.4px 0.1px 0;
+  width: 12.9px;
+  height: 15.9px;
+}
+
+.home .vector-6 {
+  margin: 3.4px 0.2px 0.4px 0;
+  width: 7.3px;
+  height: 12.1px;
+}
+
+.home .vector-7 {
+  margin: 3.2px 2.4px 0.1px 0;
+  width: 12.9px;
+  height: 12.7px;
+}
+
+.home .vector-8 {
+  margin: 0 1.7px 0.4px 0;
+  width: 9px;
+  height: 15.6px;
+}
+
+.home .vector-9 {
+  margin: 3.2px 2.4px 0.1px 0;
+  width: 12.9px;
+  height: 12.8px;
+}
+
+.home .vector-10 {
+  margin: 3.5px 0.7px 0.4px 0;
+  width: 7.3px;
+  height: 12.1px;
+}
+
+.home .vector-11 {
+  margin-top: 3.2px;
+  width: 8.5px;
+  height: 12.8px;
+}
+
+.home .group-1 {
+  display: flex;
+  flex-direction: row;
+  width: 80.6px;
+  box-sizing: border-box;
+}
+
+.home .container-6 {
+  margin-top: 9.1px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: 104.7px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+
+.home .layer-1 {
+  position: static;
+  left: 0px;
+  bottom: 0px;
+  display: flex;
+  width: 167px;
+  height: 65px;
+  gap: 0px;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+
+.home .home-1 {
+  overflow-wrap: break-word;
+  font-family: 'General Sans', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 16px;
+  color: #101010;
+}
+
+.home .frame-2 {
+  display: flex;
+  width: Hug (61px)px;
+  height: Hug (38px)px;
+  padding: 8px 0px 0px 0px;
+  gap: 8px;
+  opacity: 0px;
+
+  box-sizing: border-box;
+}
+
+.home .quem-somos {
+  overflow-wrap: break-word;
+  font-family: 'General Sans', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 16px;
+  color: #96A0B5;
+}
+
+.home .frame-3 {
+  display: flex;
+  width: Hug (116px)px;
+  height: Hug (38px)px;
+  padding: 8px 0px 0px 0px;
+  gap: 8px;
+  opacity: 0px;
+
+  box-sizing: border-box;
+}
+
+.home .servios-1 {
+  overflow-wrap: break-word;
+  font-family: 'General Sans', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 16px;
+  color: #96A0B5;
+}
+
+.home .frame-4 {
+  display: flex;
+  width: Hug (81px)px;
+  height: Hug (38px)px;
+  padding: 8px 0px 0px 0px;
+  gap: 8px;
+  opacity: 0px;
+
+  box-sizing: border-box;
+}
+
+.home .novidades-2 {
+  overflow-wrap: break-word;
+  font-family: 'General Sans', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 16px;
+  color: #96A0B5;
+}
+
+.home .frame-8 {
+  display: flex;
+  width: Hug (95px)px;
+  height: Hug (38px)px;
+  padding: 8px 0px 0px 0px;
+  gap: 8px;
+  opacity: 0px;
+
+  box-sizing: border-box;
+}
+
+.home .localizao-2 {
+  overflow-wrap: break-word;
+  font-family: 'General Sans', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 16px;
+  color: #96A0B5;
+}
+
+.home .frame-9 {
+  display: flex;
+  width: Hug (103px)px;
+  height: Hug (38px)px;
+  padding: 8px 0px 0px 0px;
+  gap: 8px;
+  opacity: 0px;
+
+  box-sizing: border-box;
+}
+
+.home .frame-40058 {
+  display: flex;
+  margin: 1rem auto;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 584px;
+  height: 38px;
+  gap: 32px;
+
+
+  box-sizing: border-box;
+}
+
+.home .entre-em-contato-1 {
+  overflow-wrap: break-word;
+  font-family: 'General Sans', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 20px;
+  color: #0C0A0A;
+}
+
+.home .frame-40041 {
+  border-radius: 50px;
+  border: 1px solid #0C0A0A;
+  position: absolute;
+  top: 30px;
+  right: 0px;
+  display: flex;
+  width: 215px;
+  height: 53px;
+  padding: 13px 25px 13px 25px;
+  gap: 10px;
+
+  box-sizing: border-box;
+}
+
+.home .frame-40059 {
+  position: relative;
+
+  display: flex;
+  padding: 21.5px 49.7px 24.5px 0;
+  width: 1280px;
+
+  box-sizing: border-box;
+}
+
+.home .nossa-essncia-cuidar-de-voc {
+  margin-right: 71.4px;
+  overflow-wrap: break-word;
+  width: 821px;
+  height: 196px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Clash Display;
+  font-size: 80px;
+  font-weight: 500;
+  line-height: 98.4px;
+  text-align: left;
+
+  color: #101010;
+
+
+
+}
+
+.home .somos-asoul-brokers-temos-como-propsito-prestar-servios-ecriar-solues-de-seguros-especficas-para-cada-ramo-de-atuao-1 {
+  margin-bottom: 98px;
+  display: inline-block;
+  width: 435px;
+  height: 90px;
+  gap: 0px;
+  opacity: 0px;
+  overflow-wrap: break-word;
+  font-family: General Sans;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+  text-align: left;
+  color: #96A0B5;
+}
+
+.home .frame-40049 {
+  display: flex;
+  flex-direction: row;
+  width: Hug (1, 280px)px;
+  height: Hug (196px)px;
+  gap: 24px;
+  opacity: 0px;
+  box-sizing: border-box;
+}
+
+.home .conhea-nossos-servios {
+  margin: 0 11.5px 2.5px 0;
+  display: inline-block;
+  width: 237px;
+  height: 27px;
+  gap: 0px;
+  opacity: 0px;
+  overflow-wrap: break-word;
+  font-family: General Sans;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 27px;
+  text-align: left;
+  color: #FFFFFF;
+}
+
+.home .arrow-right-9 {
+  width: 24px;
+  height: 24px;
+}
+
+.home .arrow-right-4 {
+  margin-top: 1.5px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  gap: 0px;
+  opacity: 0px;
+  box-sizing: border-box;
+  border: 1.5px solid rgb(12, 12, 12)
+}
+
+.home .frame-40042 {
+  border-radius: 50px;
+  border: 1px solid #0C0A0A;
+  background: #0C0A0A;
+  position: absolute;
+  right: 95.7px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 13px 25px 13px 25px;
+  width: Hug (321px)px;
+  height: Hug (53px)px;
+  gap: 10px;
+  opacity: 0px;
+  box-sizing: border-box;
+}
+
+.home .frame-40061 {
+  position: relative;
+  margin: 0 10.3px 0 1px;
+  display: flex;
+  width: Hug (1, 280px)px;
+  height: Hug (196px)px;
+  top: 30px;
+  left: 80px;
+  gap: 10px;
+  opacity: 0px;
+  padding-bottom: 8px;
+  box-sizing: border-box;
+}
+
+.home .container-3 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  height: 1024px;
+  gap: 0px;
+  opacity: 0px;
+
+  box-sizing: border-box;
+}
+
+.home .large-cargo-ship-with-containers-in-the-port-generative-ai {
+  background: url('../assets/images/large_cargo_ship_with_containers_in_the_port_generative_ai.png') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 10px;
+  width: 933px;
+  height: 583px;
+}
+
+
+
+.home .rectangle-6629 {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 609px;
+  height: 583px;
+  gap: 0px;
+  opacity: 0px;
+
+}
+
+.home .rectangle-66361 {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 933px;
+  height: 210px;
+  gap: 0px;
+  opacity: 0px;
+
+}
+
+.home .frame-40056 {
+
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  width: Hug (933px)px;
+  height: Hug (1, 164px)px;
+  gap: 0px;
+  opacity: 0px;
+  bottom: 0px;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+.home .it-was-popularised-in-the-1960-swith-the-release-of-letraset-sheets-containing-lorem-ipsum-passages-and-more-recently-with-desktop-publishing-software-like-aldus-page-maker {
+  position: absolute;
+  left: 80px;
+  top: 475px;
+  width: 451px;
+  height: 72px;
+  overflow-wrap: break-word;
+  font-family: General Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  color: #d9d9d9;
+
+
+
+
+
+}
+
+.home .frame-40057 {
+
+  position: absolute;
+  right: -450px;
+  bottom: -581px;
+  width: Hug (933px)px;
+  height: Hug (1, 164px)px;
+  top: 441px;
+  left: 957px;
+  gap: 10px;
+  opacity: 0px;
+
+}
+
+.home .it-was-popularised-in-the-1960-swith-the-release-of-letraset-sheets-containing-lorem-ipsum-passages-and-more-recently-with-desktop-publishing-software-like-aldus-page-maker-1 {
+  margin-right: 36px;
+  width: 451px;
+  height: 72px;
+  overflow-wrap: break-word;
+  font-family: 'General Sans', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: left;
+  color: #D9D9D9;
+
+}
+
+.home .vector-53 {
+  width: 10px;
+  height: 18.5px;
+}
+
+.home .frame-400501 {
+  border-radius: 100px;
+  background: rgba(255, 255, 255, 0.12);
+  margin-right: 24px;
+  padding: 14.8px 19.2px;
+  width: 48px;
+  height: 48px;
+  gap: 10px;
+  box-sizing: border-box;
+}
+
+.home .vector-54 {
+  width: 10px;
+  height: 18.5px;
+}
+
+.home .frame-400511 {
+  border-radius: 100px;
+  background: #FFFFFF;
+  display: flex;
+  padding: 14.8px 19.3px;
+  width: 48px;
+  height: 48px;
+  box-sizing: border-box;
+}
+
+.home .frame-400521 {
+  margin-top: 24px;
+  display: flex;
+  flex-direction: row;
+  width: 120px;
+  height: 48px;
+  gap: 24px;
+  box-sizing: border-box;
+}
+
+.home .frame-40053 {
+  position: absolute;
+  width: 821px;
+  height: 72px;
+  left: 80px;
+  right: 32px;
+  gap: 250px;
+  bottom: 36px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.home .container-7 {
+  background: url('../assets/images/aerial_view_of_aferry.png') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 10px;
+  width: 933px;
+  height: 583px;
+  gap: 0px;
+  opacity: 0px;
+
+}
+
+.home .rectangle-66341 {
+
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  width: 933px;
+  height: 210px;
+
+
+
+
+}
+
+.home .frame-40054 {
+  position: relative;
+  width: 933px;
+  height: 583px;
+}
+
+.home .frame-40055 {
+  position: absolute;
+  left: 0px;
+  bottom: -593px;
+  width: Hug (933px)px;
+  height: Hug (1, 176px)px;
+  top: 441px;
+  gap: 10px;
+  opacity: 0px;
+
+  flex-direction: column;
+  align-items: center;
+}
+
+.home .heading {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 61px 0px 0 0px;
+  width: 1440px;
+  height: 1024px;
+  gap: 0px;
+  opacity: 0px;
+  box-sizing: border-box;
+
+
+
+}
+
+.home .conheça-3 {
+  margin-bottom: 24px;
+  display: inline-block;
+  width: 103px;
+  height: 32px;
+  gap: 0px;
+  opacity: 0px;
+  overflow-wrap: break-word;
+  font-family: General Sans;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 32.4px;
+  text-align: center;
+  color: #96A0B5;
+
+
+
+}
+
+.home .atranquilidade-que-voc-precisa {
+  overflow-wrap: break-word;
+  width: 955px;
+  height: 74px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Clash Display;
+  font-size: 60px;
+  font-weight: 500;
+  line-height: 73.8px;
+  text-align: center;
+  color: #101010;
+
+
+}
+
+.home .frame-40071 {
+  margin-bottom: 59px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 955px;
+  height: Hug (126px)px;
+  top: 100px;
+  left: 242.5px;
+  gap: 20px;
+  opacity: 0px;
+  box-sizing: border-box;
+}
+
+.home .rectangle-66351 {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) -84.5%, #0C0A0A 117.36%);
+  position: absolute;
+  left: 50%;
+  top: 258px;
+  translate: -50% 0;
+  width: 632px;
+  height: 242px;
+}
+
+.home .gesto-de-transportes {
+  position: relative;
+  margin-bottom: 14px;
+  display: inline-block;
+  align-self: flex-start;
+  width: 269px;
+  height: 30px;
+  gap: 0px;
+  opacity: 0px;
+  overflow-wrap: break-word;
+  font-family: Clash Display;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29.52px;
+  text-align: left;
+  color: #FFFFFF;
+}
+
+.home .it-was-popularised-in-the-1960-swith-the-release-of-letraset-sheets-containing-lorem-ipsum-passages-and-more-recently-with-desktop-publishing-software-like-aldus-page-maker-3 {
+  position: relative;
+  align-self: flex-start;
+  width: 451px;
+  height: 72px;
+  gap: 0px;
+  opacity: 0px;
+  overflow-wrap: break-word;
+  font-family: General Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  color: #D9D9D9;
+}
+
+.home .container {
+  background: url('../assets/images/rectangle_4667.png') 50% / cover no-repeat, linear-gradient(#D9D9D9, #D9D9D9);
+  position: relative;
+  margin-right: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 0 0 24px 24px;
+  width: 632px;
+  box-sizing: border-box;
+}
+
+.home .rectangle-6615 {
+  background: url('../assets/images/rectangle_6615.png') 50% / cover no-repeat, linear-gradient(#D9D9D9, #D9D9D9);
+  width: 230px;
+  height: hug (242px)px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.home .acompanhamento-de-frota {
+  margin-bottom: 14px;
+  display: inline-block;
+  align-self: flex-start;
+  width: 321px;
+  height: 30px;
+  gap: 0px;
+  opacity: 0px;
+  overflow-wrap: break-word;
+  font-family: Clash Display;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29.52px;
+  text-align: left;
+  color: #FFFFFF;
+}
+
+.home .it-was-popularised-in-the-1960-swith-the-release-of-letraset-sheets-containing-lorem-ipsum-passages-and-more-recently-with-desktop-publishing-software-like-aldus-page-maker-2 {
+  align-self: flex-start;
+  width: 354px;
+  height: 96px;
+  gap: 0px;
+  opacity: 0px;
+  overflow-wrap: break-word;
+  font-family: General Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  color: #D9D9D9;
+}
+
+.home .frame-40065 {
+  background: #01737F;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  width: 402px;
+  height: Hug (242px)px;
+  padding: 80px 24px 24px 24px;
+  gap: 12px;
+  opacity: 0px;
+
+  box-sizing: border-box;
+}
+
+.home .frame-40066 {
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: row;
+  width: Hug (632px)px;
+  height: Hug (242px)px;
+  top: 281px;
+  left: 728px;
+  gap: 0px;
+  opacity: 0px;
+  box-sizing: border-box;
+}
+
+.home .segurana-empresarial {
+  margin-bottom: 14px;
+  display: inline-block;
+  align-self: flex-start;
+  width: 274px;
+  height: 30px;
+  gap: 0px;
+  opacity: 0px;
+  overflow-wrap: break-word;
+  font-family: Clash Display;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29.52px;
+  text-align: left;
+  color: #FFFFFF;
+}
+
+.home .it-was-popularised-in-the-1960-swith-the-release-of-letraset-sheets-containing-lorem-ipsum-passages-and-more-recently-with-desktop {
+  align-self: flex-start;
+  width: 354px;
+  height: 72px;
+  gap: 0px;
+  opacity: 0px;
+  overflow-wrap: break-word;
+  font-family: General Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  color: rgba(217, 217, 217, 1);
+
+}
+
+.home .frame-40067 {
+  background: #031356;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 0 0 24px 24px;
+  width: 402px;
+  height: Hug (242px)px;
+  padding: 104px 24px 24px 24px;
+  gap: 12px;
+  opacity: 0px;
+  box-sizing: border-box;
+}
+
+.home .rectangle-6616 {
+  background: url('../assets/images/rectangle_6616.png') 50% / cover no-repeat, linear-gradient(#D9D9D9, #D9D9D9);
+  width: 230px;
+  height: hug (242px)px;
+}
+
+.home .frame-40068 {
+  display: flex;
+  flex-direction: row;
+  width: Hug (632px)px;
+  height: Hug (242px)px;
+  top: 539px;
+  left: 728px;
+  gap: 0px;
+  opacity: 0px;
+  box-sizing: border-box;
+}
+
+.home .container-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+.home .container-8 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.home .section-2 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 100px 80px;
+  width: 1440px;
+  height: 881px;
+  top: 1024px;
+  gap: 0px;
+  opacity: 0px;
+  box-sizing: border-box;
+}
+
+.home .novidades-1 {
+  margin-bottom: 24px;
+  display: inline-block;
+  align-self: flex-start;
+  width: 307px;
+  height: 74px;
+  gap: 0px;
+  opacity: 0px;
+  overflow-wrap: break-word;
+  font-family: Clash Display;
+  font-size: 60px;
+  font-weight: 500;
+  line-height: 73.8px;
+  text-align: left;
+  color: #FFFFFF;
+}
+
+.home .mantenha-se-atualizado-sobre-todas-as-novidades-de-tendncias-do-mercado-nossas-matrias-so-cuidadosamente-selecionadas-para-deixar-voc-sempre-atualizado {
+  overflow-wrap: break-word;
+  width: 707px;
+  height: 108px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: General Sans;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 36px;
+  text-align: left;
+  color: #96A0B5;
+}
+
+.home .frame-40069 {
+  display: flex;
+  flex-direction: column;
+  width: Hug (707px)px;
+  height: Hug (202px)px;
+  gap: 20px;
+  opacity: 0px;
+  box-sizing: border-box;
+}
+
+.home .vector-49 {
+  width: 36px;
+  height: 36px;
+  gap: 0px;
+
+
+}
+
+.home .frame-40050 {
+  border-radius: 100px;
+  background: rgba(255, 255, 255, 0.12);
+  margin-right: 24px;
+  display: flex;
+  padding: 10px;
+  width: Hug (56px)px;
+  height: Hug (56px)px;
+  gap: 10px;
+  opacity: 0px;
+  box-sizing: border-box;
+
+
+}
+
+.home .vector-50 {
+  width: 36px;
+  height: 36px;
+  gap: 0px;
+
+}
+
+.home .frame-40051 {
+  border-radius: 100px;
+  background: #FFFFFF;
+  display: flex;
+  padding: 10px;
+  width: Hug (56px)px;
+  height: Hug (56px)px;
+  gap: 10px;
+  opacity: 0px;
+  box-sizing: border-box;
+
+
+
+
+
+}
+
+.home .frame-40052 {
+  margin-bottom: 146px;
+  display: flex;
+  flex-direction: row;
+  width: Hug (136px)px;
+  height: Hug (56px)px;
+  gap: 24px;
+  opacity: 0px;
+  box-sizing: border-box;
+
+}
+
+.home .frame-40070 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1280px;
+  height: 202px;
+  top: 100px;
+  left: 80px;
+  gap: 437px;
+  opacity: 0px;
+
+  box-sizing: border-box;
+}
+
+.home .rectangle-6633 {
+  background: url('../assets/images/rectangle_6633.png') 50% / cover no-repeat, linear-gradient(#D9D9D9, #D9D9D9);
+  margin-bottom: 24px;
+  width: 313px;
+  height: 227px;
+}
+
+.home .susep-fornece-novas-dire {
+  margin-bottom: 18px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Clash Display', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+
+.home .lorem-ipsumis-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industrys-standard-dummy-text-ever-since-the-1500-s {
+  overflow-wrap: break-word;
+  font-family: 'General Sans', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #96A0B5;
+}
+
+.home .frame-40072 {
+  margin-right: 0.8px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.home .frame-40076 {
+  border: 1px solid #4F4A4A;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 23px;
+  box-sizing: border-box;
+}
+
+.home .rectangle-6634 {
+  background: url('../assets/images/rectangle_6634.png') 50% / cover no-repeat, linear-gradient(#D9D9D9, #D9D9D9);
+  margin-bottom: 24px;
+  width: 313px;
+  height: 227px;
+}
+
+.home .abril-verde-segurana-e {
+  margin-bottom: 18px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Clash Display', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+
+.home .lorem-ipsumis-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industrys-standard-dummy-text-ever-since-the-1500-s-1 {
+  overflow-wrap: break-word;
+  font-family: 'General Sans', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #96A0B5;
+}
+
+.home .frame-40073 {
+  margin-right: 0.8px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.home .frame-40077 {
+  border: 1px solid #4F4A4A;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 23px;
+  box-sizing: border-box;
+}
+
+.home .rectangle-6635 {
+  background: url('../assets/images/rectangle_6635.png') 50% / cover no-repeat, linear-gradient(#D9D9D9, #D9D9D9);
+  margin-bottom: 24px;
+  width: 313px;
+  height: 227px;
+}
+
+.home .aimportncia-da-medicin {
+  margin-bottom: 18px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Clash Display', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+
+.home .lorem-ipsumis-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industrys-standard-dummy-text-ever-since-the-1500-s-2 {
+  overflow-wrap: break-word;
+  font-family: 'General Sans', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #96A0B5;
+}
+
+.home .frame-40074 {
+  margin-right: 0.8px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.home .frame-40078 {
+  border: 1px solid #4F4A4A;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 23px;
+  box-sizing: border-box;
+}
+
+.home .rectangle-6636 {
+  background: url('../assets/images/rectangle_6636.png') 50% / cover no-repeat, linear-gradient(#D9D9D9, #D9D9D9);
+  margin-bottom: 24px;
+  width: 313px;
+  height: 227px;
+}
+
+.home .como-omercado {
+  margin-bottom: 18px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Clash Display', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+
+.home .lorem-ipsumis-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industrys-standard-dummy-text-ever-since-the-1500-s-3 {
+  overflow-wrap: break-word;
+  font-family: 'General Sans', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #96A0B5;
+}
+
+.home .frame-40075 {
+  margin-right: 0.8px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.home .frame-40079 {
+  border: 1px solid #4F4A4A;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 23px;
+  box-sizing: border-box;
+}
+
+.home .frame-40081 {
+  position: absolute;
+  right: -144px;
+  bottom: 100px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 20px;
+  width: 1504px;
+  height: Hug (441px)px;
+  top: 362px;
+  left: 80px;
+  gap: 20px;
+  opacity: 0px;
+  box-sizing: border-box;
+}
+
+.home .section-3 {
+  background: #0C0A0A;
+  position: relative;
+  display: flex;
+  padding: 100px 80px 0 80px;
+  width: 1440px;
+  height: 903px;
+  box-sizing: border-box;
+}
+
+.home .nossos-servios {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  width: 477px;
+  height: 74px;
+  gap: 0px;
+  opacity: 0px;
+  overflow-wrap: break-word;
+  font-family: Clash Display;
+  font-size: 60px;
+  font-weight: 500;
+  line-height: 73.8px;
+  text-align: left;
+  color: #101010;
+}
+
+.home .line-170 {
+  background: #ADABAB;
+  width: 1280px;
+  height: 0px;
+  gap: 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  border: 1px solid rgba(173, 171, 171, 1)
+}
+
+.home .frame-40091 {
+  margin-bottom: 39px;
+  display: flex;
+  flex-direction: column;
+  width: 1280px;
+  height: 114px;
+  top: 100px;
+  left: 80px;
+  gap: 40px;
+  box-sizing: border-box;
+}
+
+.home .rectangle-6627 {
+  background: url('../assets/images/rectangle_6627.png') 50% / cover no-repeat, linear-gradient(#D9D9D9, #D9D9D9);
+  margin-right: 60px;
+  width: 500px;
+  height: Hug (300px)px;
+  gap: 0px;
+  opacity: 0px;
+
+}
+
+.home .planos-de-sade {
+  margin-bottom: 18px;
+  display: inline-block;
+  align-self: flex-start;
+  width: 312px;
+  height: 49px;
+  gap: 0px;
+  opacity: 0px;
+  overflow-wrap: break-word;
+  font-family: Clash Display;
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 49.2px;
+  text-align: left;
+
+  color: #101010;
+}
+
+.home .it-was-popularised-in-the-1960-swith-the-release-of-letraset-sheets-containing-lorem-ipsum-passages-and-more-recently-with-desktop-publishing-software-like-aldus-page-maker-including-versions-of-lorem-ipsum-it-has-survived-not-only-five-centuries-1 {
+  overflow-wrap: break-word;
+  width: 539px;
+  height: 150px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: General Sans;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color: #96A0B5;
+
+
+
+}
+
+.home .frame-40082 {
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  width: Hug (539px)px;
+  height: Hug (215px)px;
+  gap: 16px;
+  opacity: 0px;
+
+  box-sizing: border-box;
+}
+
+.home .conhea-1 {
+  margin: 0 24.9px 2.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'General Sans', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 20px;
+  color: #0C0A0A;
+}
+
+.home .arrow-right-7 {
+  width: 24px;
+  height: 24px;
+}
+
+.home .arrow-right-2 {
+  margin-top: 1.5px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+
+.home .frame-40043 {
+  border-radius: 50px;
+  border: 1px solid #0C0A0A;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 11px 0 12.5px 0;
+  width: Hug (168px)px;
+  height: Hug (51px)px;
+  padding: 12px 25px 12px 25px;
+  gap: 10px;
+  opacity: 0px;
+  box-sizing: border-box;
+}
+
+.home .frame-40083 {
+  margin-bottom: 4px;
+  display: flex;
+  flex-direction: column;
+  width: Hug (539px)px;
+  height: Hug (296px)px;
+  gap: 30px;
+  opacity: 0px;
+  box-sizing: border-box;
+}
+
+.home .frame-40084 {
+  margin-bottom: 82px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: Hug (1, 099px)px;
+  height: Hug (300px)px;
+  top: 254px;
+  left: 80px;
+  gap: 60px;
+  opacity: 0px;
+
+  box-sizing: border-box;
+
+
+}
+
+.home .rectangle-6628 {
+  background: url('../assets/images/rectangle_6628.png') 50% / cover no-repeat, linear-gradient(#D9D9D9, #D9D9D9);
+  margin-right: 60px;
+  width: 500px;
+  height: Hug (300px)px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.home .seguro-de-frota {
+  margin-bottom: 18px;
+  display: inline-block;
+  align-self: flex-start;
+  width: 314px;
+  height: 49px;
+  gap: 0px;
+  opacity: 0px;
+  overflow-wrap: break-word;
+  font-family: Clash Display;
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 49.2px;
+  text-align: left;
+  color: #101010;
+
+
+
+}
+
+.home .it-was-popularised-in-the-1960-swith-the-release-of-letraset-sheets-containing-lorem-ipsum-passages-and-more-recently-with-desktop-publishing-software-like-aldus-page-maker-including-versions-of-lorem-ipsum-it-has-survived-not-only-five-centuries-2 {
+  overflow-wrap: break-word;
+  width: 539px;
+  height: 150px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: General Sans;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color: #96A0B5;
+}
+
+.home .frame-40085 {
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  width: 539px;
+  height: 215px;
+  gap: 16px;
+  opacity: 0px;
+
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.home .conhea-2 {
+  margin: 0 24.9px 2.5px 0;
+  display: inline-block;
+  width: 84px;
+  height: 27px;
+  gap: 0px;
+  opacity: 0px;
+  overflow-wrap: break-word;
+  font-family: General Sans;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 27px;
+  text-align: left;
+  color: #0C0A0A;
+}
+
+.home .arrow-right-8 {
+  width: 24px;
+  height: 24px;
+}
+
+.home .arrow-right-3 {
+  margin-top: 1.5px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+
+.home .frame-40044 {
+  border-radius: 50px;
+  border: 1px solid #0C0A0A;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 12px 25px 12px 25px;
+  width: 168px;
+  height: 51px;
+  gap: 10px;
+  opacity: 0px;
+  box-sizing: border-box;
+}
+
+.home .frame-40086 {
+  margin-bottom: 4px;
+  display: flex;
+  flex-direction: column;
+  width: 539px;
+  height: 296px;
+  gap: 30px;
+  opacity: 0px;
+  box-sizing: border-box;
+}
+
+.home .frame-40087 {
+  margin-bottom: 82px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: Hug (1, 099px)px;
+  height: Hug (300px)px;
+  top: 636px;
+  left: 80px;
+  gap: 60px;
+  opacity: 0px;
+
+  box-sizing: border-box;
+}
+
+.home .rectangle-6626 {
+  background: url('../assets/images/rectangle_6626.png') 50% / cover no-repeat, linear-gradient(#D9D9D9, #D9D9D9);
+  margin-right: 60px;
+  width: 500px;
+  height: 300px;
+  gap: 0px;
+  opacity: 0px;
+
+}
+
+.home .seguro-empresarial {
+  margin-bottom: 18px;
+  display: inline-block;
+  align-self: flex-start;
+  width: 388px;
+  height: 49px;
+  gap: 0px;
+  opacity: 0px;
+  overflow-wrap: break-word;
+  font-family: Clash Display;
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 49.2px;
+  text-align: left;
+  color: #101010;
+}
+
+.home .it-was-popularised-in-the-1960-swith-the-release-of-letraset-sheets-containing-lorem-ipsum-passages-and-more-recently-with-desktop-publishing-software-like-aldus-page-maker-including-versions-of-lorem-ipsum-it-has-survived-not-only-five-centuries {
+  width: 539px;
+  height: 150px;
+  gap: 0px;
+  opacity: 0px;
+  overflow-wrap: break-word;
+  font-family: General Sans;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color: rgba(150, 160, 181, 1);
+
+}
+
+.home .frame-40088 {
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  width: 539px;
+  height: 215px;
+  gap: 16px;
+  opacity: 0px;
+
+  box-sizing: border-box;
+}
+
+.home .conhea {
+  margin: 0 24.9px 2.5px 0;
+  display: inline-block;
+  width: 84px;
+  height: 27px;
+  gap: 0px;
+  opacity: 0px;
+  overflow-wrap: break-word;
+  font-family: General Sans;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 27px;
+  text-align: left;
+  color: #0C0A0A;
+}
+
+.home .arrow-right-6 {
+  width: 24px;
+  height: 24px;
+}
+
+.home .arrow-right-1 {
+  margin-top: 1.5px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+
+.home .frame-40045 {
+  border-radius: 50px;
+  border: 1px solid #0C0A0A;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 12px 25px 12px 25px;
+  width: 168px;
+  height: 51px;
+  gap: 10px;
+  opacity: 0px;
+  box-sizing: border-box;
+}
+
+.home .frame-40089 {
+  margin-bottom: 4px;
+  display: flex;
+  flex-direction: column;
+  width: 539px;
+  height: 296px;
+  gap: 30px;
+  opacity: 0px;
+  box-sizing: border-box;
+}
+
+.home .frame-40090 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  height: Hug 300px;
+  top: 1018px;
+  left: 80px;
+  gap: 60px;
+  opacity: 0px;
+  box-sizing: border-box;
+}
+
+.home .section-4 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 100px 80px;
+  width: 1440px;
+  height: 1418px;
+  top: 2808px;
+  gap: 0px;
+  box-sizing: border-box;
+
+}
+
+.home .venha-tomar-um-caf-conosco {
+  margin-right: 50px;
+  width: 715px;
+  height: 196px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Clash Display;
+  font-size: 80px;
+  font-weight: 500;
+  line-height: 98.4px;
+  text-align: left;
+  color: #FFFFFF;
+}
+
+.home .somos-asoul-brokers-temos-como-propsito-prestar-servios-ecriar-solues-de-seguros-especficas-para-cada-ramo-de-atuao {
+  margin-bottom: 98px;
+  display: inline-block;
+  width: 513px;
+  height: 90px;
+  gap: 0px;
+  opacity: 0px;
+
+  overflow-wrap: break-word;
+  font-family: 'General Sans', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: left;
+  color: #96A0B5;
+}
+
+.home .frame-40093 {
+  margin: 0 0 15px 0px;
+  display: flex;
+  flex-direction: row;
+  width: 1280px;
+  height: 196px;
+  top: 100px;
+  left: 80px;
+  gap: 0px;
+  opacity: 0px;
+  box-sizing: border-box;
+
+}
+
+.home .vector-14 {
+  margin: 0 4.7px 7px 0;
+  width: 45.69px;
+  height: 46.02px;
+  top: -0px;
+  left: -0px;
+  gap: 0px;
+  opacity: 0px;
+
+}
+
+.home .vector-15 {
+  margin: 5.5px 2.3px 0.1px 0;
+  width: 16px;
+  height: 22.9px;
+  top: 12.87px;
+  left: 50.39px;
+  gap: 0px;
+  opacity: 0px;
+
+}
+
+.home .vector-16 {
+  margin: 5.5px 3.1px 0px 0;
+  width: 22.9px;
+  height: 22.9px;
+}
+
+.home .vector-17 {
+  margin: 6.1px 4.6px 0 0;
+  width: 18.5px;
+  height: 22.3px;
+}
+
+.home .vector-18 {
+  margin-bottom: 0.6px;
+  width: 4.9px;
+  height: 27.9px;
+}
+
+.home .group-2 {
+  margin: 0 12.3px 4.2px 0;
+  display: flex;
+  flex-direction: row;
+  width: 72.34px;
+  height: 28.44px;
+  top: 7.39px;
+  left: 50.39px;
+  gap: 0px;
+  opacity: 0px;
+
+  box-sizing: border-box;
+}
+
+.home .vector-19 {
+  margin: 0px 1.9px 0.1px 0;
+  width: 10.5px;
+  height: 12.9px;
+}
+
+.home .vector-20 {
+  margin: 2.8px 0.2px 0.3px 0;
+  width: 5.9px;
+  height: 9.9px;
+}
+
+.home .vector-21 {
+  margin: 2.6px 1.9px 0px 0;
+  width: 10.4px;
+  height: 10.4px;
+}
+
+.home .vector-22 {
+  margin: 0 1.4px 0.3px 0;
+  width: 7.2px;
+  height: 12.7px;
+}
+
+.home .vector-23 {
+  margin: 2.6px 1.9px 0px 0;
+  width: 10.4px;
+  height: 10.4px;
+}
+
+.home .vector-24 {
+  margin: 2.8px 0.6px 0.3px 0;
+  width: 5.9px;
+  height: 9.9px;
+}
+
+.home .vector-25 {
+  margin-top: 2.6px;
+  width: 6.9px;
+  height: 10.4px;
+}
+
+.home .group-3 {
+  margin-left: 19.5px;
+  display: flex;
+  flex-direction: row;
+  width: 65.12px;
+  height: 13.02px;
+  top: 40px;
+  left: 69.88px;
+  padding: 0px;
+  gap: 0px;
+  opacity: 0px;
+
+  box-sizing: border-box;
+}
+
+.home .container-4 {
+  margin-top: 7.4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 84.6px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+
+.home .frame-40047 {
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 135px;
+  height: 53px;
+  gap: 12px;
+  opacity: 0px;
+  box-sizing: border-box;
+}
+
+.home .nosso-objetivo-atenders-necessidades-dos-clientes-com-produtos-de-qualidade-contamos-com-um-time-experiente-para-oferecer-proteo-sob-medida {
+  margin-left: 0px;
+  width: 342px;
+  height: 216px;
+  gap: 0px;
+  opacity: 0px;
+
+  overflow-wrap: break-word;
+  font-family: General Sans;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 36px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color: #96A0B5;
+}
+
+.home .frame-40095 {
+  margin: 0 206.7px 25px 0;
+  display: flex;
+  flex-direction: column;
+  width: 342px;
+  height: Fixed (377px)px;
+  top: 331px;
+  left: 80px;
+  gap: 24px;
+  opacity: 0px;
+
+  box-sizing: border-box;
+}
+
+.home .localizao {
+  margin-bottom: 25px;
+  display: inline-block;
+  align-self: flex-start;
+  width: 130px;
+  height: 32px;
+  gap: 0px;
+  opacity: 0px;
+  overflow-wrap: break-word;
+  font-family: General Sans;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 32.4px;
+  text-align: left;
+  color: #FFFFFF;
+}
+
+.home .praa-silvio-romero-55-conjunto-34 {
+  overflow-wrap: break-word;
+  width: 239px;
+  height: 72px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: General Sans;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 36px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color: #96A0B5;
+}
+
+.home .frame-40096 {
+  margin: 105px 114.2px 88px 0;
+  display: flex;
+  flex-direction: column;
+  width: 239px;
+  height: 125px;
+  top: 436px;
+  left: 599px;
+  gap: 21px;
+  opacity: 0px;
+  box-sizing: border-box;
+}
+
+.home .empresa {
+  margin-bottom: 25px;
+  display: inline-block;
+  align-self: flex-start;
+  width: 99px;
+  height: 32px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: General Sans;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 32.4px;
+  text-align: left;
+  color: #FFFFFF;
+}
+
+.home .sobre-ns {
+  margin: 0 18.5px 16px 0;
+  display: inline-block;
+  width: 113px;
+  height: 32px;
+  gap: 0px;
+  opacity: 0px;
+  overflow-wrap: break-word;
+  font-family: General Sans;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 32.4px;
+  text-align: left;
+  color: #96A0B5;
+}
+
+.home .servios {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  width: 97px;
+  height: 32px;
+  gap: 0px;
+  opacity: 0px;
+  overflow-wrap: break-word;
+  font-family: General Sans;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 32.4px;
+  text-align: left;
+
+  color: #96A0B5;
+}
+
+.home .novidades {
+  margin: 0 13.7px 16px 0;
+  display: inline-block;
+  width: 119px;
+  height: 32px;
+  gap: 0px;
+  opacity: 0px;
+  overflow-wrap: break-word;
+  font-family: General Sans;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 32.4px;
+  text-align: left;
+
+  color: #96A0B5;
+}
+
+.home .localizao-1 {
+  overflow-wrap: break-word;
+  width: 130px;
+  height: 32px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: General Sans;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 32.4px;
+  text-align: left;
+  color: #96A0B5;
+}
+
+.home .frame-40097 {
+  display: flex;
+  flex-direction: column;
+  width: 130px;
+  height: 164px;
+  gap: 12px;
+  opacity: 0px;
+  box-sizing: border-box;
+}
+
+.home .frame-40098 {
+  margin: 105px 110.9px 0 0;
+  display: flex;
+  flex-direction: column;
+  width: 130px;
+  height: 217px;
+  top: 436px;
+  left: 951px;
+  gap: 21px;
+  opacity: 0px;
+
+  box-sizing: border-box;
+}
+
+.home .ajuda {
+  margin-bottom: 25px;
+  display: inline-block;
+  align-self: flex-start;
+  width: 65px;
+  height: 32px;
+  gap: 0px;
+  opacity: 0px;
+  overflow-wrap: break-word;
+  font-family: General Sans;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 32.4px;
+  text-align: left;
+  color: #FFFFFF;
+}
+
+.home .politicas-de-uso {
+  margin-bottom: 16px;
+  display: inline-block;
+  width: 177px;
+  height: 32px;
+  gap: 0px;
+  opacity: 0px;
+  overflow-wrap: break-word;
+  font-family: General Sans;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 32.4px;
+  text-align: left;
+
+  color: #96A0B5;
+}
+
+.home .privacidade {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  width: 130px;
+  height: 32px;
+  gap: 0px;
+  opacity: 0px;
+  overflow-wrap: break-word;
+  font-family: General Sans;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 32.4px;
+  text-align: left;
+  color: #96A0B5;
+}
+
+.home .termos-de-uso {
+  margin: 0 13.7px 16px 0;
+  display: inline-block;
+  width: 164px;
+  height: 32px;
+  gap: 0px;
+  opacity: 0px;
+  overflow-wrap: break-word;
+  font-family: General Sans;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 32.4px;
+  text-align: left;
+  color: #96A0B5;
+}
+
+.home .faqs {
+  align-self: flex-start;
+  width: 61px;
+  height: 32px;
+  gap: 0px;
+  opacity: 0px;
+  overflow-wrap: break-word;
+  font-family: General Sans;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 32.4px;
+  text-align: left;
+  color: #96A0B5;
+}
+
+.home .frame-40099 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  height: 164px;
+  gap: 12px;
+  opacity: 0px;
+  box-sizing: border-box;
+}
+
+.home .frame-40100 {
+  margin-top: 105px;
+  display: flex;
+  flex-direction: column;
+  width: 177px;
+  height: 217px;
+  top: 436px;
+  left: 1176px;
+  gap: 21px;
+  opacity: 0px;
+  box-sizing: border-box;
+}
+
+.home .container-1 {
+  margin: 0 29.8px 50px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.home .line-168 {
+  background: rgba(150, 160, 181, 0.25);
+  margin-bottom: 38.5px;
+  width: 1280px;
+  height: 0px;
+  gap: 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  border: 1px solid rgba(150, 160, 181, 0.25)
+}
+
+.home .copyright-todos-os-direitos-reservados-soul-brokers {
+  margin: 5px 12px 5px 0;
+  display: inline-block;
+  width: 452px;
+  height: 24px;
+  gap: 0px;
+  opacity: 0px;
+  overflow-wrap: break-word;
+  font-family: General Sans;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.005em;
+  text-align: left;
+  color: #96A0B5;
+}
+
+.home .vector-38 {
+  width: 14px;
+  height: 14px;
+}
+
+.home .frame-441 {
+  border-radius: 50px;
+  border: 1px dashed #96A0B5;
+  margin-right: 18px;
+  display: flex;
+  width: Fixed (34px)px;
+  height: Fixed (34px)px;
+  padding: 9px;
+  gap: 10px;
+  opacity: 0px;
+  box-sizing: border-box;
+}
+
+.home .instagram {
+  width: 14px;
+  height: 14px;
+}
+
+.home .frame-442 {
+  border-radius: 50px;
+  border: 1px dashed #96A0B5;
+  margin-right: 18px;
+  display: flex;
+  padding: 9px;
+  width: 34px;
+  height: 34px;
+  box-sizing: border-box;
+}
+
+.home .vector-42 {
+  width: 6.1px;
+  height: 11.7px;
+}
+
+.home .frame-443 {
+  border-radius: 50px;
+  border: 1px dashed #96A0B5;
+  display: flex;
+  padding: 10.2px 13.1px 10.2px 12.9px;
+  width: 34px;
+  height: 34px;
+  box-sizing: border-box;
+}
+
+.home .frame-40101 {
+  display: flex;
+  flex-direction: row;
+  width: Hug (138px)px;
+  height: Hug (34px)px;
+  gap: 18px;
+  opacity: 0px;
+
+  box-sizing: border-box;
+}
+
+.home .frame-40102 {
+  margin-right: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1279px;
+  height: 65px;
+  gap: 261px;
+  opacity: 0px;
+  box-sizing: border-box;
+}
+
+.home .frame-40103 {
+  margin-left: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1280px;
+  height: 89px;
+  top: 701px;
+  left: 80px;
+  gap: 24px;
+  opacity: 0px;
+  box-sizing: border-box;
+}
+
+.home .container-5 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+.home .entre-em-contato {
+  margin: 0 11.5px 2.5px 0;
+  display: inline-block;
+  width: 165px;
+  height: 27px;
+  gap: 0px;
+  opacity: 0px;
+  overflow-wrap: break-word;
+  font-family: General Sans;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 27px;
+  text-align: left;
+
+  color: #FFFFFF;
+}
+
+.home .arrow-right-5 {
+  width: 24px;
+  height: 24px;
+  gap: 0px;
+  opacity: 0px;
+
+}
+
+.home .arrow-right {
+  margin-top: 1.5px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+
+.home .frame-40046 {
+  border-radius: 50px;
+  border: 1px solid #FFFFFF;
+  position: absolute;
+  top: 245px;
+  right: 344px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 12px 25px 12px 25px;
+  width: 249px;
+  height: 51px;
+  left: 847px;
+  gap: 10px;
+  opacity: 0px;
+  box-sizing: border-box;
+}
+
+.home .vector-26 {
+  margin: 0 5.8px 8.6px 0;
+  width: 56.5px;
+  height: 56.4px;
+}
+
+.home .vector-27 {
+  margin: 6.7px 2.8px 0.1px 0;
+  width: 19.8px;
+  height: 28.1px;
+}
+
+.home .vector-28 {
+  margin: 6.8px 3.8px 0px 0;
+  width: 28.4px;
+  height: 28px;
+}
+
+.home .vector-29 {
+  margin: 7.5px 5.7px 0 0;
+  width: 22.9px;
+  height: 27.4px;
+}
+
+.home .vector-30 {
+  margin-bottom: 0.7px;
+  width: 6px;
+  height: 34.2px;
+}
+
+.home .group-4 {
+  margin: 0 15.2px 5.1px 0;
+  display: flex;
+  flex-direction: row;
+  width: 89.5px;
+  box-sizing: border-box;
+}
+
+.home .vector-31 {
+  margin: 0px 2.4px 0.1px 0;
+  width: 12.9px;
+  height: 15.9px;
+}
+
+.home .vector-32 {
+  margin: 3.4px 0.2px 0.4px 0;
+  width: 7.3px;
+  height: 12.1px;
+}
+
+.home .vector-33 {
+  margin: 3.2px 2.4px 0.1px 0;
+  width: 12.9px;
+  height: 12.7px;
+}
+
+.home .vector-34 {
+  margin: 0 1.7px 0.4px 0;
+  width: 9px;
+  height: 15.6px;
+}
+
+.home .vector-35 {
+  margin: 3.2px 2.4px 0.1px 0;
+  width: 12.9px;
+  height: 12.8px;
+}
+
+.home .vector-12 {
+  margin: 3.5px 0.7px 0.4px 0;
+  width: 7.3px;
+  height: 12.1px;
+}
+
+.home .vector-13 {
+  margin-top: 3.2px;
+  width: 8.5px;
+  height: 12.8px;
+}
+
+.home .group-5 {
+  display: flex;
+  flex-direction: row;
+  width: 80.6px;
+  box-sizing: border-box;
+}
+
+.home .container-9 {
+  margin-top: 9.1px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: 104.7px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+
+.home .layer-11 {
+  position: absolute;
+  left: 50%;
+  bottom: 64px;
+  translate: -50% 0;
+  display: flex;
+  flex-direction: row;
+  width: 167px;
+  height: 65px;
+  top: 736px;
+  left: 637px;
+  gap: 0px;
+  opacity: 0px;
+
+  box-sizing: border-box;
+}
+
+.home .services {
+  background: #0C0A0A;
+  position: relative;
+  display: flex;
+  width: 1440px;
+  height: 865px;
+  gap: 0px;
+  opacity: 0px;
+  padding: 100px 80px 90.5px 80px;
+  box-sizing: border-box;
+}
+
+.home {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  height: 5091px;
+  top: -9120px;
+  left: -145px;
+  gap: 0px;
+  opacity: 0px;
+  box-sizing: border-box;
+}
