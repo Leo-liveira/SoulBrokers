@@ -1,0 +1,14 @@
+.body {
+    display: flex;
+
+}
+
+#heading {
+    height: 180px;
+}
+
+.container-3 {
+    flex-direction: column;
+    padding: 20px 0;
+    align-items: center;
+}
